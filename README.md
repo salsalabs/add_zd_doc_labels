@@ -66,7 +66,6 @@ Shows all of the categories that are visible to the credentials in the YAML file
 203862748 -> Salsa Donate Help Documentation
 203291427 -> DonorPro Help Documentation
 ```
-The app displays the main prompt again.
 
 ### 2. List Sections in a category
 
@@ -87,8 +86,6 @@ Alrighty, give me the category_id
 * 205164367 -> Events
 . . .
 ```
-The app displays the main prompt again.
-
 ### 3. List Articles in a Section
 
 Accepts a section ID and displays lists the articles.  The labels for each article appear after the title.
@@ -107,7 +104,6 @@ Alright, give me the section_id
 
 . . .
 ```
-The app displays the main prompt again.
 
 ### 4. Choose Category and add answer-bot label to the articles in that category (long)
 
@@ -191,3 +187,7 @@ Choosing "7" stops the application.  If you are stopping for the last time then 
 ## Questions?  Comments?
 
 Use the `Issues` link at the top of GitHub repository.
+
+### Kudos.
+
+My heartfelt thanks and appreciation to the folks at Zendesk for creating such a great product *and* documenting it so clearly.
