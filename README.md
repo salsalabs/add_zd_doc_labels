@@ -188,6 +188,6 @@ Choosing "7" stops the application.  If you are stopping for the last time then 
 
 Use the `Issues` link at the top of GitHub repository.
 
-### Kudos.
+## Kudos.
 
-My heartfelt thanks and appreciation to the folks at Zendesk for creating such a great product *and* documenting it so clearly.
+My heartfelt thanks and appreciation to the folks at [Zendesk](https://www.zendesk.com) for creating such a great product *and* documenting it so clearly.
